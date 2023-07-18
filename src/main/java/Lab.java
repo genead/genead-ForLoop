@@ -46,7 +46,7 @@ public class Lab {
 
     for(int i = start; i < end; i++){   
        // System.out.print(i);
-        buildingString = buildingString + i;
+        buildingString = buildingString + i + " ";
         
     }
     
