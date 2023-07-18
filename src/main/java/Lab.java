@@ -43,7 +43,11 @@ public class Lab {
         String buildingString = "";
 
 //        code here
+    for(int i = start; i < end; i++){   
+        System.out.print(i);
+        
+    }
+    return buildingString; 
 
-        return buildingString;
     }
 }
